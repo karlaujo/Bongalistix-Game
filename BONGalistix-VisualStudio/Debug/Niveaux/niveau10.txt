@@ -1,0 +1,21 @@
+Fichier de definition d'un niveau
+Dimensions de la zone limite du niveau (x1,y1,x2,y2)
+10,10,389,389
+nb de segments verticaux
+5
+coordonnées des segments verticaux (x1,y1,x2,y2)
+150,10,150,250
+180,10,180,250
+240,10,240,250
+270,10,270,250
+200,250,200,300
+nb de segments horizontaux 
+1
+coordonnées des segments horizontaux (x1,y1,x2,y2)
+250,50,270,50
+position du lanceur (x,y)
+260,40
+position de la cible (coin inférieur gauche (x,y))
+155,20
+taille de la cible (carrée de cote x)
+20
